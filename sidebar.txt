@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzj:home|Door43 (kzj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzj|d43-kzj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzj/archive/master.zip|d43-kzj.zip]]
+
+**Recent Changes**
+{{changes>ns = kzj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzj|Ethnologue data]]
+
